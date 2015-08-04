@@ -1,0 +1,5 @@
+gems:
+  - jekyll-redirect-from
+title: Title Post
+redirect_to:
+  - http://www.google.com
